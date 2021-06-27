@@ -1,0 +1,30 @@
+.checkout-card {
+  padding: 10px 25px 10px 50px;
+  font-size: 14px;
+}
+.checkout-head {
+  display: flex;
+  justify-content: space-between;
+}
+.checkout-name h2 {
+  font-size: 26px;
+}
+.checkout-doc-id {
+  margin: 10px 0 20px 0;
+}
+.checkout-pet {
+  margin: 10px 0;
+}
+/* .checkout-img {
+  display: grid;
+  place-items: center;
+} */
+.checkout-date {
+  color: green;
+  margin: 10px 0;
+}
+.checkout-total {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}

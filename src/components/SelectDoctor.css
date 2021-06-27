@@ -1,0 +1,39 @@
+.search-heading {
+  margin-left: 50px;
+}
+.doctor-card {
+  margin: 20px 5px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.doctor-text {
+  margin: 0 5px;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.doctor-cta {
+  text-align: center;
+  flex-shrink: 2;
+}
+.doctor-name {
+  display: flex;
+}
+.doctor-name h3 {
+  font-size: 16px;
+}
+.doctor-status {
+  font-size: 12px;
+  margin: 3px 0;
+}
+.doctor-available {
+  color: rgb(18, 133, 18);
+}
+.doctor-unavailable {
+  color: rgb(209, 25, 25);
+}
+.starred {
+  color: aqua;
+}

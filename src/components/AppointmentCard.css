@@ -1,0 +1,34 @@
+.appointment-card {
+  width: 100%;
+  padding: 10px 50px;
+}
+.appointment-card h2 {
+  text-align: center;
+}
+.app-pet-card {
+  margin: 20px 0;
+  display: flex;
+}
+.app-pet-img {
+  flex: 0;
+}
+.app-pet-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.app-pet-avatar {
+  margin-right: 20px;
+}
+.terms-conditions {
+  font-size: 8px;
+  line-height: 0.9;
+  margin: 20px 0;
+}
+.whatsapp-checkbox {
+  font-size: 10px;
+}
+.cta {
+  display: flex;
+  justify-content: center;
+}

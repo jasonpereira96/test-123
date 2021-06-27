@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+.app {
+  min-height: 100vh;
+  max-width: 400px;
+  margin: auto;
+  padding-bottom: 50px;
+  background-color: #c7dedb;
+}
+.page {
+  transform: translateY(2vh);
+  margin: auto;
+  padding-bottom: 2vh;
+  width: 92%;
+  min-height: 86vh;
+  background-color: #fff;
+}
+.arrow-btn {
+  font-size: 30px;
+  color: black;
+  transform: translate(10px, 10px);
+}
+hr {
+  width: 220px;
+  margin: 20px auto;
+}

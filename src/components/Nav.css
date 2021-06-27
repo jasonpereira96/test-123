@@ -1,0 +1,21 @@
+.nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  background-color: #fff;
+}
+.menu {
+  margin: 20px;
+  cursor: pointer;
+}
+.logo {
+  cursor: pointer;
+  fill: #588b8b;
+  transform: translateY(2px);
+}
+.nav-avatar {
+  margin: 20px;
+  margin-left: auto;
+  cursor: pointer;
+}

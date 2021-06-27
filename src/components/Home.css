@@ -1,0 +1,21 @@
+.splash-card {
+  max-width: 500px;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  padding: 20px;
+  background-color: #588b8b;
+}
+.splash-card h1 {
+  font-size: 40px;
+}
+.splash-card p {
+  margin: 20px 0;
+  font-size: 25px;
+}
+.link {
+  text-decoration: none;
+  width: fit-content;
+}
